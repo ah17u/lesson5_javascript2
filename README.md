@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(March 2, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Austin Hamlin)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(A program designed to calculate your taxes and tax bracket.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://ah17u.github.io/lesson5_javascript2/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Learned how to use if and if/else statements.)
+2. (Using getelementbyid to reference elements.)
+3. (Working with onclick.)
 
